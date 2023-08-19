@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Khulood66 <Khulood khaled>
+- 👀 I’m interested in programming and specialy apps in any platform.
+- 🌱 I’m currently learning flutter.
+- 💞️ I’m looking to collaborate on teams whos work hard.
+- 📫 you reach me at my email in profile or in linkedin.
